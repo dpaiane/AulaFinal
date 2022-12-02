@@ -1,3 +1,3 @@
 1.Meu codigo esta salvo na branch master 18:38	PUSH
 2.Baixei do git 19:00	CLONE
-3.Enviado para branch diego
+3.Meu codigo agora vai pra branch diego 19:06
