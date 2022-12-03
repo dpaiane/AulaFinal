@@ -1,3 +1,0 @@
-1.Meu codigo esta salvo na branch master 18:38	PUSH
-2.Baixei do git 19:00	CLONE
-3.Meu codigo agora vai pra master 20:48
